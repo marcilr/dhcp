@@ -8,8 +8,7 @@ management protocol used to automate the process of
 configuring devices on IP networks, thus allowing them 
 to use network services such as DNS, NTP, and any 
 communication protocol based on UDP or TCP."
---What is DHCP and why is it important? | EfficientIP
-  https://www.efficientip.com/what-is-dhcp-and-why-is-it-important/#:~:text=Dynamic%20Host%20Configuration%20Protocol%20(DHCP,based%20on%20UDP%20or%20TCP.
+--www.efficientip.com/
 
 Configuration:
   /etc/dhcp/dhcp.conf
